@@ -1,7 +1,7 @@
 <h1>Hi! I'm Raiana. :computer:</h1>
 
 
-<p align="center">I ❤️ challenges and exploring my creativity. <br><br> I <strong> focus on discovering new things</strong> and using them to develop my skills. Today, I'm a <strong>full stack developer in progress,</strong>with a focus on web development.</p>&nbsp;
+<p align="center">I ❤️ challenges and exploring my creativity. <br><br> I <strong> focus on discovering new things</strong> and using them to develop my skills. Today, I'm a <strong>full stack developer in progress,</strong> with a focus on web development.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=raiana-santana&theme=radical&mode=weekly" />
