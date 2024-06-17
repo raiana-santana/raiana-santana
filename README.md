@@ -3,9 +3,12 @@
 
 <p align="center">I ❤️ challenges and exploring my creativity. <br><br> I <strong> focus on discovering new things</strong> and using them to develop my skills. Today, I'm a <strong>full stack developer in progress,</strong> with a focus on web development.</p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=raiana-santana&theme=radical&mode=weekly" />
- </div>
+<div  align="center">
+ 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=raiana-santana&theme=radical&card_width=488&card_height=165)](https://git.io/streak-stats)&nbsp; &nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)
+ 
+</div>
 
  
  &nbsp;
@@ -24,12 +27,15 @@
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
+![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Studying in this moment:
 
-![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
+
 
 #### Design:
 
