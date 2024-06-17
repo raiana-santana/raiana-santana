@@ -7,9 +7,6 @@
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=raiana-santana&theme=radical&mode=weekly" />
  </div>
 
- <div>
- https://github-readme-stats.vercel.app/api/top-langs/?username=raiana-santana&theme=vue-dark&show_icons=true&hide_border=true&layout=compact
- </div>
  
  &nbsp;
  &nbsp;
