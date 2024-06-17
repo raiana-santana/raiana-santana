@@ -5,7 +5,10 @@
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=raiana-santana&theme=radical&mode=weekly" />
+ </div>
 
+ <div>
+  ![raiana-santana's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raiana-santana&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
  </div>
  
  &nbsp;
