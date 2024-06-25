@@ -6,7 +6,7 @@
 <div  align="center">
  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=raiana-santana&theme=radical&card_width=488&card_height=165)](https://git.io/streak-stats)&nbsp; &nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raiana-santana&layout=compact&theme=radical)
  
 </div>
 
